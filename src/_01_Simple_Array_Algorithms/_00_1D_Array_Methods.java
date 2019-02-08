@@ -21,7 +21,6 @@ public class _00_1D_Array_Methods {
 		return ( sum / values.length );
 	}
 	
-	
 	//3. Complete the method so that it returns true if the integer
 	//   array contains the value specified by the second parameter.
 	//   It should otherwise return false.
